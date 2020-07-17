@@ -1,0 +1,806 @@
+@media (max-width:1619px){
+	/* Main Menu Area css
+	============================================================================================ */
+   .header_area .navbar .search {
+		margin-left: 40px;
+	}
+	/* End Main Menu Area css
+	============================================================================================ */
+}
+@media (max-width:1300px){
+}
+@media (max-width:1199px){
+	/* Main Menu Area css
+	============================================================================================ */
+	.header_area .navbar .nav .nav-item {
+		margin-right: 28px;
+	}
+	/* End Main Menu Area css
+	============================================================================================ */
+	/* Home Banner Area css
+	============================================================================================ */
+	.home_banner_area .banner_inner {
+		padding: 100px 0px;
+	}
+	.download_banner_area .banner_inner {
+		 padding: 0
+	}
+	/* End Home Banner Area css
+	============================================================================================ */
+	.header_area .navbar .tickets_btn {
+		margin-left: 40px;
+	}
+	.home_banner_area .banner_inner .banner_content h2 br {
+		display: none;
+		font-size: 36px;
+	}
+	.home_banner_area .banner_inner .banner_content h2 {
+		font-size: 36px;
+		line-height: 45px;
+	}
+	.features_area .box_1370 {
+		max-width:100%
+	}
+	.ft_text {
+		width: 292px;
+		position: absolute;
+		top: 150px;
+		left: 161px;
+		border-top-right-radius: 45px;
+		border-bottom-right-radius: 45px;
+		left: 50px;
+		padding: 40px;
+	}
+
+	.fetures_slide .slick-dots li {
+		margin-right:15px;
+		display: inline-block;
+	}
+	.fetures_slide .slick-dots {
+		position: relative;
+		margin: 0 auto;
+		left: 0;
+		text-align: center;
+		padding: 0
+	}
+	.features_area {
+		height: 910px;
+	}
+}
+
+@media (max-width:991px){
+	/* Main Menu Area css
+	============================================================================================ */
+	.hide_mb2 {
+  display:none
+}
+.show_mb2 {
+  display: block
+}
+    .navbar-toggler {
+        border: none;
+        border-radius: 0px;
+        padding: 0px;
+        cursor: pointer;
+        margin-top: 27px;
+        margin-bottom: 23px;
+    }
+	.header_area .navbar {
+		background: transparent;
+		    margin-top: 10px;
+	}
+	.featuers_slide_wrapper {
+		background-size: 100%;
+	}
+	.ft_text {display:none
+	}
+	.ft_text_mob {
+		display: block;
+		position: absolute;
+		overflow: hidden;
+		margin: 0 auto;
+		right: 0;
+		left: 0;
+		max-width: 660px;
+		bottom: 0;
+		padding-bottom: 20px;
+	}
+	.ft_text_mob h2 {
+		font-family: "sfpro thin";
+		font-size: 30px;
+		line-height: 30px;
+		float: left;
+		color: #515c6f;
+	  }
+	  .fetures_slide .slick-dots {
+		margin-top: 40px;
+	}
+	  .ft_text_mob p {
+		font-family: "sfpro light";
+		font-size:18px;
+		color: #515c6f;
+		float: left;
+		font-weight: 200;
+	  }
+	  
+	  .ft_text_box {
+		height: 800px;
+	}
+	.features_area {
+		height: 1000px;
+	}
+	
+    .navbar-toggler[aria-expanded="false"] span:nth-child(2) {
+		opacity: 1;
+	}
+	.navbar-toggler[aria-expanded="true"] span:nth-child(2) {
+		opacity: 0;
+	}
+	.navbar-toggler[aria-expanded="true"] span:first-child {
+		transform: rotate(-45deg);
+		position: relative;
+		top: 7.5px;
+	}
+	.navbar-toggler[aria-expanded="true"] span:last-child {
+		transform: rotate(45deg);
+		bottom: 6px;
+		position: relative;
+	}
+	.main_title h2 {
+		font-size: 45px;
+	}
+	.text_sw_div {
+		width: 115px;
+		height: 40px;
+	}
+	.why_pinngle_section {
+		padding:0
+	}
+	.p_120 {
+		padding: 60px 0
+	}
+	.wps_text_img {
+		position: absolute;
+		bottom: 0;
+		right: 10px;
+	}
+	.wps_text {
+		padding-bottom: 70px;
+		width: 300px;
+	}
+	.wps_text h3 {
+		font-size: 45px;
+	}
+	.wps_card h4 {
+		font-size: 26px;
+	}
+
+	.dwn-btn {
+		float: right;
+	}
+	.contact_widget {
+		padding:0
+	}
+	.navbar-toggler span{
+		display: block;
+		width: 25px;
+		height: 3px;
+		background: #45c4aa;
+		margin: auto;
+		margin-bottom: 4px;
+		transition: all 400ms linear;
+		cursor: pointer;
+	}
+    .navbar .container{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .nav{
+        padding: 0px 0px;
+    }
+	.header_area + section, .header_area + row, .header_area + div {
+		margin-top: 117px;
+	}
+    .header_top .nav{
+        padding: 0px;
+    }
+    .header_area .navbar .nav .nav-item .nav-link{
+        line-height: 40px;
+        margin-right: 0px;
+        display: block;
+		border-bottom: 1px solid #ededed33;
+		border-radius: 0px;
+    }
+    .header_area .navbar .search{
+        margin-left: 0px;
+    }
+/*	.header_area .navbar-collapse{
+		max-height: 340px;
+		overflow-y: scroll;
+	}*/
+	.header_area .navbar .nav .nav-item.submenu ul .nav-item .nav-link {
+		padding: 0px 15px;
+	}
+	.header_area .navbar .nav .nav-item {
+		margin-right: 0px;
+	}
+	.header_area + section, .header_area + row, .header_area + div {
+		margin-top: 71px;
+	}
+	.home_banner_area .banner_inner .banner_content .banner_map_img {
+		display: none;
+	}
+	.header_area.navbar_fixed .main_menu .navbar .nav .nav-item .nav-link {
+		line-height: 40px;
+	}
+	.header_area.white_menu.navbar_fixed .main_menu .navbar .nav .nav-item .nav-link {
+		line-height: 40px;
+	}
+	.header_area.white_menu .navbar .nav .nav-item .nav-link {
+		color: #222;
+	}
+	.download_banner_area .banner_inner .banner_content .banner_map_img {
+		display: block;
+	}
+		.header_area .navbar-collapse{
+/*		max-height: 250px;*/
+		background-color: #fff;
+		margin: 0 -15px;
+		padding: 0 20px;
+		-webkit-box-shadow: 0px 18px 49px -40px rgb(4, 92, 74);
+		-moz-box-shadow: 0px 18px 49px -40px rgb(4, 92, 74);
+		box-shadow: 0px 18px 49px -40px rgb(4, 92, 74);
+		border-bottom-left-radius: 20px;
+		border-bottom-right-radius: 20px;
+	}
+
+.dwn-btn {
+    float: none;
+}
+	/* End Main Menu Area css
+	============================================================================================ */
+	/* Blog page Area css
+	============================================================================================ */
+	.categories_post img{
+        width: 100%;
+    }
+	.categories_post {
+		max-width: 360px;
+		margin: 0 auto;
+	}
+	.blog_categorie_area .col-lg-4{
+        margin-top: 30px;
+    }
+    .blog_area{
+        padding-bottom: 80px;
+    }
+    .single-post-area .blog_right_sidebar{
+        margin-top: 30px;
+    }
+	/* End Blog page Area css
+	============================================================================================ */
+	
+	/* Contact Page Area css
+	============================================================================================ */
+	.contact_info{
+		margin-bottom: 50px;
+	}
+	/* End Contact page Area css
+	============================================================================================ */
+	.home_banner_area .donation_inner{
+		margin-bottom: -30px;
+	}
+	.home_banner_area .dontation_item{
+		max-width: 350px;
+		margin: auto;
+	}
+	/* Footer Area css
+	============================================================================================ */
+	.footer_area .col-sm-6{
+		margin-bottom: 30px;
+	}
+	.footer_area .footer_inner{
+		margin-bottom: -30px;
+	}
+	.news_widget {
+		padding-left: 0px;
+	}
+	/* End End Footer Area css
+	============================================================================================ */
+	.home_banner_area .banner_inner .home_left_img {
+		display: block;
+		padding: 0;
+	}
+	.home_banner_area {
+		background: none;
+	}
+	.wps_card {
+		max-width:448px;
+		width:initial
+	}
+	.header_area .navbar .tickets_btn {
+		display: none;
+	}
+	.home_banner_area .banner_inner {
+		padding: 70px 0px 100px 0px;
+	}
+	.left_side_text {
+		margin-bottom: 50px;
+	}
+	
+	.download_banner_area {
+		background: url('../../img/Illustration_dwn.png') ;
+		background-size: cover;
+		background-position: bottom
+	}
+	.download_banner_area .banner_inner .home_left_img {
+		padding-top: 230px;
+		height: 120px;
+	}
+	.about_us_img {
+		display:none
+	}
+	.about_us_section {
+		padding-top: 40px;
+		padding-left: 0;
+		padding-bottom: 0;
+	}
+	.about_us_dwn + .p_100 {
+		display:none
+	}
+	
+	.featuers_slide_wrapper {
+		position: relative;
+		  background-image: url('https://rubixeditor.digital/img/features/Features_Mobile_Background.png');
+		  background-repeat: no-repeat;
+		  background-position-x: right;
+		  z-index: 1;
+}
+.ft_mb_heading p{
+	font-family: 'sfpro thin';
+	font-size:45px;
+	color:#223242;
+	margin-bottom:15px
+}
+.ft_mb_heading span{
+	font-family: 'sfpro light';
+	font-size:18px;
+	color:#223242;
+	display: block
+}
+.ft_mb_heading {
+	margin: 70px auto;
+}
+.ft_mb_heading .dwn-btn {
+	margin-top: 20px;
+	width: 140px;
+	line-height: 40px;
+	padding: initial;
+	text-align: center;
+	font-size: 19px;
+	font-family: "sfpro medium", sans-serif;
+}
+
+.fetures_slide_mobile {
+	-webkit-box-shadow: 0px 0 32px 1px rgba(78, 78, 78, 0.39);
+	-moz-box-shadow: 0px 0 32px 1px rgba(78, 78, 78, 0.39);
+	box-shadow: 0px 0 32px 1px rgba(78, 78, 78, 0.39);
+	border-radius: 35px;
+	padding: 10px;
+	    background: rgba(255,255,255,0.85);
+	padding: 40px;
+}
+.ft_img_mb {
+	height: 200px;
+	float:left
+}
+.fetures_slide_mobile .row {
+	margin:20px 0
+}
+.ft_mb_box li {
+	list-style: none;
+	font-family: 'sfpro light';
+	font-size:18px;
+	color:#223242;
+}
+.ft_text_mb h2 {
+	font-family: 'sfpro thin';
+	font-size:27px;
+	color:#223242;
+	margin-bottom:15px
+}
+.fetures_slide_mobile_bg {
+	background: url('../../img/featurem/background_02.png');
+	background-repeat: no-repeat;
+	    background-position-y: 200px;
+	overflow: hidden;
+	background-size: cover;
+}
+.features_area_mobile  {
+	background: url('../../img/featurem/Path 4900.png');
+	background-repeat: no-repeat;
+	background-position: right -180px top;
+}
+.ft_img {
+display:inline-block;
+float: left;
+padding-right: 20px;
+}
+.ft_mb_box {
+	display:inline-block;
+    width: 79%;
+	}
+.features_area_mobile .col-4 img {
+	float:right
+}
+.features_area_mobile  {
+	margin:0 -15px;
+}
+.featuers_slide_wrapper_mobile {
+	padding:0 15px;
+}
+
+}
+@media (max-width:767px){
+	.home_banner_area {
+		min-height: 350px;
+	}
+	.home_banner_area .banner_inner {
+		min-height: 350px;
+	}
+	.home_banner_area .banner_inner .banner_content {
+		margin-top: 0px;
+	}
+	/* Blog Page Area css
+	============================================================================================ */
+    .blog_banner .banner_inner .blog_b_text h2 {
+		font-size: 40px;
+		line-height: 50px;
+	}
+	.blog_info.text-right{
+		text-align: left !important;
+		margin-bottom: 10px;
+	}
+	/* End Blog Page Area css
+	============================================================================================ */
+	.home_banner_area .banner_inner .banner_content h3 {
+		font-size: 30px;
+	}
+	.wps_card {
+		max-width: 100%;
+		width: initial;
+		margin-bottom: 70px;
+	}
+	.separator {
+		display:none
+	}
+	.nav_widget {
+		padding-left: 0;
+	}
+	.wps_text_img {
+		display: none;
+	}
+	.wps_text {
+		padding-bottom: 70px;
+		width: 100%;
+	}
+	.app_store_section img {
+		height: 40px;
+	}
+	.app_store_section a {
+		padding: 0 5px;
+	}
+	.main_title h2 {
+		font-size: 32px;
+	}
+	.text_sw_div {
+		width: 80px;
+    height: 36px;
+	}
+	.home_banner_area .banner_inner .banner_content p br {
+		display: none;
+	}
+	.home_banner_area .banner_inner .banner_content h3 span {
+		line-height: 45px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+	}
+	/* Footer Area css
+	============================================================================================ */
+	.footer-bottom{
+		text-align: center;
+	}
+	.footer-bottom .footer-social {
+		text-align: center;
+		margin-top: 15px;
+	}
+	/* End End Footer Area css
+	============================================================================================ */
+	.made_life_inner .nav.nav-tabs li {
+		flex: 0 0 50%;
+		max-width: 50%;
+		margin-bottom: 15px;
+	}
+	.made_life_inner .nav.nav-tabs {
+		margin-bottom: -15px;
+	}
+	.made_life_area.made_white .left_side_text {
+		margin-bottom: 0px;
+		margin-top: 30px;
+	}
+	.special_col {
+		-ms-flex: initial;
+		flex: initial;
+		max-width: initial;
+	}
+	.ft_text_mob h2 {
+		font-family: "sfpro thin";
+		font-size: 27px;
+		line-height: 27px;
+		float: left;
+		color: #515c6f;
+	}
+	.ft_text_mob p {
+		font-family: "sfpro light";
+		font-size: 20px;
+		color: #515c6f;
+		float: left;
+		font-weight: 200;
+	}
+	.fetures_slide .slick-dots li button {
+		width: 40px;
+		height: 40px;
+	    background-size: contain;
+	}
+
+
+}
+@media (max-width:600px){
+	.featuers_slide_wrapper {
+		background-position: top;
+		background-size: contain;
+	}
+}
+@media (max-width:575px){
+	.ft_mb_heading p{
+	font-family: 'sfpro thin';
+	font-size:35px;
+	color:#223242;
+	margin-bottom:15px
+}
+.ft_mb_heading span{
+	font-family: 'sfpro light';
+	font-size:13px;
+	color:#223242;
+	display: block
+}
+.ft_mb_box li {
+    list-style: none;
+    font-family: 'sfpro light';
+    font-size: 13px;
+    color: #223242;
+}
+	.fetures_slide .slick-dots li button {
+		width: 30px;
+		height: 30px;
+		background-size: contain;
+	}
+	.ft_text_mob p {
+		font-size: 13px;
+	}
+	.top_menu {
+		display: none;
+	}
+	.header_area + section, .header_area + row, .header_area + div {
+		margin-top: 71px;
+	}
+    /* Home Banner Area css
+	============================================================================================ */
+	.home_banner_area .banner_inner .banner_content h2 {
+		font-size: 28px;
+		line-height: 38px;
+	}
+	.home_banner_area {
+		min-height: 100%;
+	}
+	.home_banner_area .banner_inner {
+		padding: 70px 0px 20px 0px;
+	}
+	.main_title h2 {
+		font-size: 33px;
+	}
+	.wps_text {
+		padding:0
+	}
+
+	.home_banner_area .banner_inner {
+		min-height: 100%;
+	}
+	.blog_banner .banner_inner .blog_b_text {
+		margin-top: 0px;
+	}
+	.home_banner_area .banner_inner .banner_content img{
+		display: none;
+	}
+	.home_banner_area .banner_inner .banner_content h5 {
+		margin-top: 0px;
+	}
+	/* End Home Banner Area css
+	============================================================================================ */
+	.p_120 {
+		padding-top: 70px;
+		padding-bottom: 70px;
+	}
+	/* Elements Area css
+	============================================================================================ */
+	.sample-text-area {
+		padding: 70px 0 70px 0;
+	}
+	.generic-blockquote {
+		padding: 30px 15px 30px 30px;
+	}
+	/* End Elements Area css
+	============================================================================================ */
+	
+	/* Blog Page Area css
+	============================================================================================ */
+	.blog_details h2 {
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.blog_banner .banner_inner .blog_b_text h2 {
+		font-size: 28px;
+		line-height: 38px;
+	}
+	/* End Blog Page Area css
+	============================================================================================ */
+	/* Footer Area css
+	============================================================================================ */
+	.footer-area {
+		padding: 70px 0px;
+	}
+	/* End End Footer Area css
+	============================================================================================ */
+	.pad_top {
+		padding-top: 70px;
+	}
+	.pad_btm {
+		padding-bottom: 70px;
+	}
+}
+
+@media (max-width:480px){
+	.ft_mb_box {
+		display:inline-block;
+		width: 75%;
+		}
+		.fetures_slide_mobile {
+			padding: 40px 0;
+		}
+	#build {
+	padding:0
+		}
+		.testi_item .media .media-body p {
+		font-size: 15px;
+		}
+		.download_banner_area .banner_inner, .about_us_sct .banner_inner {
+			padding: 0;
+			}
+			.header_area + section.download_banner_area {
+    margin-top: 0;
+}
+
+	/* Main Menu Area css
+	============================================================================================ */
+	.header_area .navbar-collapse{
+		max-height: 260px;
+		background-color: #fff;
+		margin: 0 -15px;
+		padding: 0 20px;
+		-webkit-box-shadow: 0px 18px 49px -40px rgb(4, 92, 74);
+		-moz-box-shadow: 0px 18px 49px -40px rgb(4, 92, 74);
+		box-shadow: 0px 18px 49px -40px rgb(4, 92, 74);
+		border-bottom-left-radius: 20px;
+		border-bottom-right-radius: 20px;
+	}
+	.featuers_slide_wrapper {
+    background-position: center;
+    margin: 0 -15px;
+}
+.feature_phone {
+width:100%
+}
+.ft_text_mob h2,.ft_text_mob div {
+	-ms-flex: 0 0 100%;
+flex: 0 0 100%;
+max-width: 100%;
+float: none;
+}
+.ft_text_mob div li { 
+	margin-left: 20px;
+	}
+	.about_us_dwn img {
+    height: 40px;
+    display: block;
+    margin: 0 auto;
+}
+.main_title h2 {
+    font-size: 24px;
+}
+.about_us_section .main_title p {
+    font-size: 20px;
+    line-height: 20px;
+}
+.about_us_sct .home_banner_area .banner_inner {
+padding: 0 0px 20px 0px;
+}
+.testi_item {
+	margin-top: -30px;
+margin-bottom: 50px;
+}
+.dwn-btn {
+    float: none;
+}
+
+.feature_arr_dwn {
+    top: 500px;
+}
+	.logo_h img{
+		height:50px
+	}
+	.p_120 {
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+	.col_xs {
+		-ms-flex: 0 0 100%;
+		flex: 0 0 100%;
+		max-width: 100%;
+		margin-bottom: 50px;
+	}
+	.app_store_section img {
+		height: 40px;
+		display: block;
+		margin: 0 auto;
+	}
+	/* End Main Menu Area css
+	============================================================================================ */
+	
+	/* Home Banner Area css
+	============================================================================================ */
+    .home_banner_area .banner_inner .banner_content {
+		padding: 30px 15px;
+		margin-top: 0px;
+	}
+	.banner_content .white_btn {
+		display: block;
+	}
+	.home_banner_area .banner_inner .banner_content h3 {
+		font-size: 24px;
+	}
+	/* End Home Banner Area css
+	============================================================================================ */
+	.banner_area .banner_inner .banner_content h2 {
+		font-size: 32px;
+	}
+	/* Blog Page Area css
+	============================================================================================ */
+	.comments-area .thumb {
+		margin-right: 10px;
+	}
+	/* End Blog Page Area css
+	============================================================================================ */
+	.testi_item .media .d-flex {
+		padding-right: 0px;
+	}
+	.testi_item .media .d-flex img {
+		width: auto;
+		margin-bottom: 15px;
+	}
+	.testi_item .media{
+		display: block;
+	}
+	.banner_btn{
+		margin-bottom: 20px;
+	}
+}
